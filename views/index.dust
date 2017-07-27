@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="/css/bootstrap.min.css">
+	</head>
+	<body>
+	<nav class="navbar navbar-default">
+			<div class="container-fluid">
+				<ul class="nav navbar-nav navbar-right">
+					<li><a href="#">Home</a></li>
+					<li><a href="#">About Us</a></li>
+					<li><a href="#">Order Video</a></li>
+					<li><a href="#">Tips & Tricks</a></li>
+					<li><a href="#">Contact</a></li>
+				</ul>
+			</div>
+		</nav>
+Hello, World!
+	</body>
+</html>
